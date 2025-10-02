@@ -27,8 +27,6 @@
   "homepage": "https://github.com/adobe/aem-boilerplate#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.28.0",
-    "axios": "^1.12.2",
-    "dotenv": "^17.2.3",
     "eslint": "8.57.1",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-plugin-import": "2.32.0",
@@ -41,6 +39,8 @@
     "stylelint-config-standard": "38.0.0"
   },
   "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
     "@adobe/aem-cli": "^16.15.7"
   }
 }
